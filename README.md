@@ -1,3 +1,5 @@
+<img width="120pt" src="/pack.png" align="right">
+
 # KelUI-Russian-Translate
 Русификатор для старых версий KelUI
 
