@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "description": {
+            "fallback": "Russian translate for older version KelUI",
+            "translate": "kelui.russian_translate"
+        },
+        "name": "Russian Translate KelUI",
+        "pack_format": 18,
+        "supported_formats": [
+            18,
+            1984
+        ]
+    }
+}
